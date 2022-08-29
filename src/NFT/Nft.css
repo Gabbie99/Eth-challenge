@@ -1,0 +1,72 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    margin: 0%;
+}
+.div-wrap{
+    background-color: hsl(216, 50%, 16%);
+    width: 20%;
+    margin:8rem auto;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.786) 0px 10px 20px, rgba(0, 0, 0, 0.758) 0px 6px 6px;;
+}
+.hoto{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+.gabby{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+}
+.eth-house{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.eth-head{
+    color: hsl(0, 0%, 100%);
+    font-size: large;
+}
+.eth-p{
+    color: hsl(215, 51%, 70%);
+    font-size: 20px;
+    word-wrap: break-word;
+}
+.eth-pp{
+    color: hsl(178, 100%, 50%);
+    align-self: center;
+}
+hr{
+    background-color: (215, 32%, 27%);
+}
+.create{
+    color: hsl(215, 51%, 70%);
+}
+.jw{
+    color: hsl(0, 0%, 100%);
+}
+.days{
+    display: flex;
+    align-items: center;
+}
+.my-pic{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-top: .2px solid hsl(215, 32%, 27%);
+    padding-top: 20px;
+    margin-top: 10px;
+}
+footer{
+    background-color: darkgrey;
+    padding: 5px;
+}
+span{
+    color: white;
+}
